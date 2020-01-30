@@ -6,6 +6,6 @@ int main() {
     scanf("%d",&var);
     float var2;
     printf("ola mundo!");
-
+    printf("teste");
     return 0;
 }
