@@ -4,7 +4,7 @@
 int main() {
     printf("hello world");
     scanf("%d",&var);
-
+    int var;
     printf("ola mundo!");
 
     return 0;
