@@ -3,5 +3,6 @@
 
 int main() {
     printf("hello world");
+    scanf("%d",&var);
     return 0;
 }
